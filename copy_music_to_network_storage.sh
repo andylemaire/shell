@@ -1,2 +1,2 @@
 #!/bin/sh
-rsync -aE "/Users/andylemaire/Music/2023" "/Volumes/Music"
+cp -R -n "/Users/andylemaire/Music/2023" "/Volumes/Music"
